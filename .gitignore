@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+data/raw/
+data/processed/
+data/features/
+*.parquet
+.DS_Store
+mlruns/
+*.egg-info/
+.pytest_cache/
+CLAUDE.md
