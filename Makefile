@@ -1,7 +1,8 @@
 .PHONY: ingest features train serve test
 
 ingest:
-	@echo "not implemented"
+	uv run python -m src.ingestion.portfolio_snapshots
+	uv run python -m src.ingestion.market_data
 
 features:
 	@echo "not implemented"

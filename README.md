@@ -84,8 +84,8 @@ models/artifacts/       # serialized model files (gitignored)
 | Step | Status |
 |---|---|
 | 1 — Project init | done |
-| 2 — Synthetic data | in progress |
-| 3 — Market data | - |
+| 2 — Synthetic data | done |
+| 3 — Market data | done |
 | 4 — Feature engineering | - |
 | 5 — Segmentation (GMM) | - |
 | 6 — Survival analysis | - |
