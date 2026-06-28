@@ -5,7 +5,7 @@ ingest:
 	uv run python -m src.ingestion.market_data
 
 features:
-	@echo "not implemented"
+	uv run python -m src.features.pipeline
 
 train:
 	@echo "not implemented"

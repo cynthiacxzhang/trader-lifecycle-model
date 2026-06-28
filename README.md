@@ -86,6 +86,7 @@ models/artifacts/       # serialized model files (gitignored)
 | 1 — Project init | done |
 | 2 — Synthetic data | done |
 | 3 — Market data | done |
+| 4 — Feature engineering | done |
 | 4 — Feature engineering | - |
 | 5 — Segmentation (GMM) | - |
 | 6 — Survival analysis | - |
